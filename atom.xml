@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://q1285514609.github.io/gridea/</id>
     <title>架构师之路</title>
-    <updated>2019-09-06T03:04:26.129Z</updated>
+    <updated>2019-09-06T03:08:01.474Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://q1285514609.github.io/gridea/"/>
     <link rel="self" href="https://q1285514609.github.io/gridea//atom.xml"/>
@@ -16,8 +16,6 @@
         <link href="https://q1285514609.github.io/gridea//post/ce-shi-wen-zhang">
         </link>
         <updated>2019-09-06T03:02:35.000Z</updated>
-        <content type="html"><![CDATA[<p>测试文章</p>
-]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[初入gridea]]></title>
@@ -25,12 +23,5 @@
         <link href="https://q1285514609.github.io/gridea//post/chu-ru">
         </link>
         <updated>2019-09-06T02:27:12.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="使用感受">使用感受</h2>
-<p>搭建起来特别的方便，自带客户端要比之前使用hexo写文章和发布要方便的多。</p>
-<h2 id="为什么要搭建博客">为什么要搭建博客</h2>
-<p>想要把自己的所闻所想表达出来。这其实是一件并不容易的事情。</p>
-<h2 id="我是谁">我是谁</h2>
-<p>无名小卒，不足挂齿</p>
-]]></content>
     </entry>
 </feed>
