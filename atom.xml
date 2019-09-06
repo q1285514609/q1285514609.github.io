@@ -1,26 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://www.zbld555.cn</id>
+    <id>http://www.zbld555.cn</id>
     <title>架构师之路</title>
-    <updated>2019-09-06T05:21:03.154Z</updated>
+    <updated>2019-09-06T05:21:25.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://www.zbld555.cn"/>
-    <link rel="self" href="https://www.zbld555.cn/atom.xml"/>
+    <link rel="alternate" href="http://www.zbld555.cn"/>
+    <link rel="self" href="http://www.zbld555.cn/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://www.zbld555.cn/images/avatar.png</logo>
-    <icon>https://www.zbld555.cn/favicon.ico</icon>
+    <logo>http://www.zbld555.cn/images/avatar.png</logo>
+    <icon>http://www.zbld555.cn/favicon.ico</icon>
     <rights>All rights reserved 2019, 架构师之路</rights>
     <entry>
         <title type="html"><![CDATA[测试文章]]></title>
-        <id>https://www.zbld555.cn/post/ce-shi-wen-zhang</id>
-        <link href="https://www.zbld555.cn/post/ce-shi-wen-zhang">
+        <id>http://www.zbld555.cn/post/ce-shi-wen-zhang</id>
+        <link href="http://www.zbld555.cn/post/ce-shi-wen-zhang">
         </link>
         <updated>2019-09-06T03:02:35.000Z</updated>
     </entry>
     <entry>
         <title type="html"><![CDATA[初入gridea]]></title>
-        <id>https://www.zbld555.cn/post/chu-ru</id>
-        <link href="https://www.zbld555.cn/post/chu-ru">
+        <id>http://www.zbld555.cn/post/chu-ru</id>
+        <link href="http://www.zbld555.cn/post/chu-ru">
         </link>
         <updated>2019-09-06T02:27:12.000Z</updated>
     </entry>
