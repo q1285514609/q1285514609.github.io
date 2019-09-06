@@ -752,10 +752,15 @@ a {
   margin: 4px 8px;
 }
 
-      .sidebar {
-        width: 240px;
+      .sidebar .top-container .site-nav {
+        color: #66d9e8;
       }
-      .main-container {
-        margin-left: 240px;
+    
+      .post-item .right .feature-container {
+        border-radius: 5px;
+      }
+    
+      body {
+        background: #f1f3f5;
       }
     
