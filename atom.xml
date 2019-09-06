@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>https://zlgridea.github.io/</id>
+    <id>https://www.zbld555.cn/</id>
     <title>架构师之路</title>
-    <updated>2019-09-06T02:15:19.734Z</updated>
+    <updated>2019-09-06T02:17:22.436Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="https://zlgridea.github.io/"/>
-    <link rel="self" href="https://zlgridea.github.io//atom.xml"/>
+    <link rel="alternate" href="https://www.zbld555.cn/"/>
+    <link rel="self" href="https://www.zbld555.cn//atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>https://zlgridea.github.io//images/avatar.png</logo>
-    <icon>https://zlgridea.github.io//favicon.ico</icon>
+    <logo>https://www.zbld555.cn//images/avatar.png</logo>
+    <icon>https://www.zbld555.cn//favicon.ico</icon>
     <rights>All rights reserved 2019, 架构师之路</rights>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>https://zlgridea.github.io//post/hello-gridea</id>
-        <link href="https://zlgridea.github.io//post/hello-gridea">
+        <id>https://www.zbld555.cn//post/hello-gridea</id>
+        <link href="https://www.zbld555.cn//post/hello-gridea">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
